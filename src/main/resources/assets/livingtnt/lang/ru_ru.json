@@ -1,0 +1,22 @@
+{
+  "block.livingtnt.house_tnt": "Динамит: Домик",
+  "block.livingtnt.cabin_tnt": "Динамит: Лесная хижина",
+  "block.livingtnt.castle_tnt": "Динамит: Замок",
+  "block.livingtnt.mansion_tnt": "Динамит: Особняк",
+  "block.livingtnt.bunker_tnt": "Динамит: Бункер",
+  "block.livingtnt.pagoda_tnt": "Динамит: Японская пагода",
+  "block.livingtnt.cottage_tnt": "Динамит: Уютный коттедж",
+  "block.livingtnt.stone_house_tnt": "Динамит: Каменный дом",
+  "block.livingtnt.spruce_house_tnt": "Динамит: Еловый дом",
+  "block.livingtnt.birch_house_tnt": "Динамит: Берёзовый дом",
+  "block.livingtnt.jungle_house_tnt": "Динамит: Дом в джунглях",
+  "block.livingtnt.desert_house_tnt": "Динамит: Пустынный дом",
+  "block.livingtnt.snow_house_tnt": "Динамит: Снежный дом",
+  "block.livingtnt.swamp_house_tnt": "Динамит: Дом на болоте",
+  "block.livingtnt.farm_house_tnt": "Динамит: Фермерский дом",
+  "block.livingtnt.tower_house_tnt": "Динамит: Сторожевая башня",
+  "block.livingtnt.wizard_tower_tnt": "Динамит: Башня мага",
+  "block.livingtnt.lighthouse_tnt": "Динамит: Маяк",
+  "block.livingtnt.modern_house_tnt": "Динамит: Современный дом",
+  "block.livingtnt.treehouse_tnt": "Динамит: Дом на дереве"
+}

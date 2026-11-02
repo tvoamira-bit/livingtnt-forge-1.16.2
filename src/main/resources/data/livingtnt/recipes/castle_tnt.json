@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "ITI",
+    "SFS"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "S": {
+      "item": "minecraft:stone_bricks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "F": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "livingtnt:castle_tnt",
+    "count": 1
+  }
+}

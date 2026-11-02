@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQQ",
+    "GTG",
+    "QQQ"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "Q": {
+      "item": "minecraft:quartz_block"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "livingtnt:modern_house_tnt",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    "WTW",
+    "HHH"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "W": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "livingtnt:farm_house_tnt",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OPO",
+    "PHP",
+    "OGO"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:tnt"
+    },
+    "O": {
+      "item": "minecraft:oak_planks"
+    },
+    "P": {
+      "item": "minecraft:oak_door"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "livingtnt:house_tnt",
+    "count": 1
+  }
+}

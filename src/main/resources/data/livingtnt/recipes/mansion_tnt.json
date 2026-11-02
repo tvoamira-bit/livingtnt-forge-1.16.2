@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QGQ",
+    "GTG",
+    "QGQ"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "Q": {
+      "item": "minecraft:quartz_block"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "livingtnt:mansion_tnt",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "OTO",
+    "LLL"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "L": {
+      "item": "minecraft:oak_log"
+    },
+    "O": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "livingtnt:treehouse_tnt",
+    "count": 1
+  }
+}

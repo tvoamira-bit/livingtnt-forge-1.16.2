@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "JJJ",
+    "BTB",
+    "JJJ"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "J": {
+      "item": "minecraft:jungle_planks"
+    },
+    "B": {
+      "item": "minecraft:bamboo"
+    }
+  },
+  "result": {
+    "item": "livingtnt:jungle_house_tnt",
+    "count": 1
+  }
+}

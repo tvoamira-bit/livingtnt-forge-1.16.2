@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "RTR",
+    "WTW"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "W": {
+      "item": "minecraft:white_concrete"
+    },
+    "R": {
+      "item": "minecraft:red_concrete"
+    }
+  },
+  "result": {
+    "item": "livingtnt:lighthouse_tnt",
+    "count": 1
+  }
+}

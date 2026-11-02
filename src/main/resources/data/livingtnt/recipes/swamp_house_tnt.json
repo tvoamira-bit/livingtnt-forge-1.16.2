@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "VTV",
+    "MMM"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "M": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "V": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "livingtnt:swamp_house_tnt",
+    "count": 1
+  }
+}

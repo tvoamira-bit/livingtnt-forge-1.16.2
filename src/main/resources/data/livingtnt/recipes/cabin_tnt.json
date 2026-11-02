@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LSL",
+    "CTC",
+    "LSL"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "L": {
+      "item": "minecraft:spruce_log"
+    },
+    "S": {
+      "item": "minecraft:spruce_planks"
+    },
+    "C": {
+      "item": "minecraft:campfire"
+    }
+  },
+  "result": {
+    "item": "livingtnt:cabin_tnt",
+    "count": 1
+  }
+}

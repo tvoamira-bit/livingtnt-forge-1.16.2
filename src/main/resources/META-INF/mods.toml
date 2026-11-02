@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[33,)"
+license="MIT"
+[[mods]]
+modId="livingtnt"
+version="1.0.0"
+displayName="Living TNT"
+authors="LivingTNT"
+description='''Special TNT blocks that build ready-to-live-in structures when ignited.'''
